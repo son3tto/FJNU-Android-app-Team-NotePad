@@ -91,7 +91,7 @@ public class TitleEditor extends Activity {
         );
 
         // Gets the View ID for the EditText box
-        mText = (EditText) this.findViewById(R.id.title);
+        mText = this.findViewById(R.id.title);
     }
 
     /**
