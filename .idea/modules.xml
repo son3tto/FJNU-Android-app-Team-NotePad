@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Team-NotePad-2.iml" filepath="$PROJECT_DIR$/Team-NotePad-2.iml" group="Team-NotePad-2" />
-      <module fileurl="file://$PROJECT_DIR$/app/Team-NotePad-2-app.iml" filepath="$PROJECT_DIR$/app/Team-NotePad-2-app.iml" group="Team-NotePad-2/app" />
+      <module fileurl="file://$PROJECT_DIR$/Team-NotePad.iml" filepath="$PROJECT_DIR$/Team-NotePad.iml" group="Team-NotePad" />
+      <module fileurl="file://$PROJECT_DIR$/app/Team-NotePad-app.iml" filepath="$PROJECT_DIR$/app/Team-NotePad-app.iml" group="Team-NotePad/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
