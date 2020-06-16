@@ -32,9 +32,7 @@ public final class NotePad {
     private NotePad() {
     }
 
-    /**
-     * Notes table contract
-     */
+
     public static final class Notes implements BaseColumns {
 
         // This class cannot be instantiated
