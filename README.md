@@ -57,15 +57,15 @@ git commit ..
 git push origin [新分支]
 就是从自己的分支上推送到github上面，之后在github上面会生成一个pull request(合并请求)，
 打开github的话，在仓库这里甚至可以查看每个分支的内容。
-![git-version-control-1](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/tree/master/git-version-control-1.jpg)
+![git-version-control-1](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/git-version-control-1.jpg)
 选择pull requests这里这以查看代码修改了哪些地方啥的, 
 更重要的是，在这里同意合并的话，就会合并到master分支上！
-![git-version-control-2](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/tree/master/git-version-control-2.jpg)
+![git-version-control-2](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/git-version-control-2.jpg)
 
 
 如果程序出错可以用rollback进行回滚，不过这我又不懂了。Android studio可以直接
-![git-version-control-3](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/tree/master/git-version-control-3.jpg)
+![git-version-control-3](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/git-version-control-3.jpg)
 在这里版本控制，也可以用命令行。感觉好难，有错再说吧。。
 
 整了个图
-![git-version-control-4](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/tree/master/git-version-control-4.jpg)
+![git-version-control-4](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/git-version-control-4.jpg)
