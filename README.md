@@ -38,28 +38,37 @@ git pull origin master
 
 双击update.sh，确认更新了就可以继续了
 update.sh写的就是：
+```shell
+git pull origin master
+git add -A
+git commit -am "$(date "+%Y-%m-%d %H:%M:%S")"
+git push origin master
+```
 
-> git pull origin master
-> git add -A
-> git commit -am "$(date "+%Y-%m-%d %H:%M:%S")"
-> git push origin master
-
-
-**（1）到时候如果大家做安卓，怕不小心把错的程序推上去了，可以**
-> 先git checkout -b [分支名字]
+**（1）到时候如果大家做安卓，怕不小心把错的程序推上去了，可以使用下面这个命令新建并转移到分支**
+```shell
+git checkout -b [分支名字]
+```
 
 在自己本机上新建分支，进行调试。等到确定OK可以跑了.再使用
-> git checkout master
+```shell
+git checkout master
+```
 
 切换到本机的master分支，然后使用
->git merge [分支名]
+```shell
+git merge [分支名]
+```
 
-把本机的新分支和本机的master分支合并再推送。
-
+把本机的新分支和本机的master分支合并再推送到远程的github的master分支！
+ps: 此时，推送的是master分支，新的分支是不同步的，如果需要同步，仍然需要merge，走一步看一步！我不能全部情况都考虑到QAQ！
+    如果不确定自己在哪个分支，在命令行输入git branch即可查看。
 **（2）补充，如果想试试可以试试，不用也没关系！**
 如果直接在新分支上进行
->git commit ..
+```shell
+git commit ..
 git push origin [新分支]
+```
 
 就是从自己的分支上推送到github上面，之后在github上面会生成一个pull request(合并请求)，
 打开github的话，在仓库这里甚至可以查看每个分支的内容。
@@ -77,10 +86,14 @@ git push origin [新分支]
 ![git-version-control-4](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/git-version-control-4.jpg)
 
 **（3）从本地分支推送到github远程分支**
-> git push origin [本地分支名]:[远程分支名]
+```shell
+git push origin [本地分支名]:[远程分支名]
+```
 
 如若本地的master分支和新的分支不同步，哪个在更后面，就在更后面的分支上merge前面的分支。（抽象话开始了）
 如，当我在本地sonetto分支上输入
-> git merge master
+```shell
+git merge master
+```
 
 那么sonetto分支就成功赶上了master分支的进度~
