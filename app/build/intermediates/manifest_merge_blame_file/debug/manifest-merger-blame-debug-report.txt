@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2007 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<!--
+18 Declare the contents of this Android application.  The namespace
+19     attribute brings in the Android platform namespace, and the package
+20     supplies a unique name for the application.  When writing your
+21     own application, the package name must be changed from "com.example.*"
+22     to come from a domain that you own or have control over.
+23-->
+24<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+25    package="com.example.intentdemo"
+26    android:versionCode="1"
+27    android:versionName="1.0" >
+28
+29    <uses-sdk
+30        android:minSdkVersion="15"
+30-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+31        android:targetSdkVersion="29" />
+31-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+32
+33    <application
+33-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:26:5-47:19
+34        android:allowBackup="true"
+34-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:28:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.2.0-alpha03] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:icon="@drawable/app_notes"
+37-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:26:18-52
+38        android:label="@string/app_name"
+38-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:27:9-41
+39        android:testOnly="true" >
+40        <activity
+40-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:30:9-39:20
+41            android:name="com.example.android.notepad.activity.MainActivity"
+41-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:31:13-50
+42            android:label="@string/app_name"
+42-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:32:13-45
+43            android:theme="@style/AppTheme.NoActionBar" >
+43-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:33:13-56
+44            <intent-filter>
+44-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:34:13-38:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:35:17-69
+45-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:35:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:17-77
+47-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:41:9-44:44
+51            android:name="com.example.android.notepad.activity.EditNoteActivity"
+51-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:42:13-54
+52            android:parentActivityName="com.example.android.notepad.activity.MainActivity" />
+52-->D:\juniorteam\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:43:13-64
+53
+54        <provider
+54-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:27:9-32:39
+55            android:name="com.mikepenz.iconics.IconicsContentProvider"
+55-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:28:13-71
+56            android:authorities="com.example.intentdemo.iconics.core.provider"
+56-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:29:13-73
+57            android:enabled="@bool/is_iconics_content_provider_enabled"
+57-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:30:13-72
+58            android:exported="false"
+58-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:31:13-37
+59            android:initOrder="100" />
+59-->[com.mikepenz:iconics-core:4.0.2] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:32:13-36
+60
+61        <service
+61-->[androidx.room:room-runtime:2.2.5] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+62            android:name="androidx.room.MultiInstanceInvalidationService"
+62-->[androidx.room:room-runtime:2.2.5] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+63            android:directBootAware="true"
+63-->[androidx.room:room-runtime:2.2.5] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+64            android:exported="false" />
+64-->[androidx.room:room-runtime:2.2.5] C:\Users\YML\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+65    </application>
+66
+67</manifest>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".activity.EditNoteActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/edit_note_activity_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        android:layout_alignParentLeft="true" />
+
+    <EditText
+        android:id="@+id/input_note_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_note_activity_toolbar"
+        android:autofillHints="@string/title_edit"
+        android:hint="@string/none"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_below="@id/input_note_title"
+        android:id="@+id/input_note"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:ems="10"
+        android:hint="@string/littleprince"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:paddingEnd="12dp"
+        android:paddingStart="12dp"
+        android:paddingTop="4dp"
+        tools:text="@tools:sample/lorem/random"
+        android:autofillHints="@string/say_something" />
+</RelativeLayout>
