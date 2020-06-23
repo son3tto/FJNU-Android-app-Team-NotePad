@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+MERGED from [jp.wasabeef:richeditor-android:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\6fa6b7ad965cb69550c03f40473a9a70\jetified-richeditor-android-1.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:materialdrawer:7.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\242117c462cb0ce558c5d27d0777b98e\jetified-materialdrawer-7.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\176ba9771d5bd3bddf5b20f2145af29e\jetified-materialize-1.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c8866dd86044317293433cbf21f14002\constraintlayout-2.0.0-beta4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:17:1-35:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65cb41738accb8ce22d932b84d3e6e56\jetified-fastadapter-extensions-expandable-4.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\16097bb1f2ffa69ee9b7af3de76b9d61\jetified-fastadapter-4.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\1bd668fc37a38b5c8fc7915c01a4294f\paging-runtime-2.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\33954c5b145501bac6acfbab4277e4c4\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\2ffa6fb42a0edd43832158b657f9e00f\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\000b2fa82e91c757b88d13df13849edc\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4466e4c6a66886e808cb13575ccdfe95\drawerlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0-alpha01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\dc31904d48adc0fd8fbb20e1965b8e51\customview-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ceac98cb2f48d4e14db943703a466dd6\jetified-core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+	package
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:24:5-42
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:23:5-51
+	android:versionCode
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:1-64:12
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:22:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:26:5-29:11
+	android:required
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:27:9-47
+uses-permission#android.permission.INTERNET
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:30:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:31:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:33:5-64
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:33:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:34:5-35:47
+	tools:ignore
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:35:9-44
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:34:22-81
+uses-permission#com.miui.whetstone.permission.ACCESS_PROVIDER
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:36:5-84
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:36:22-82
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:22-77
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:38:5-70
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:38:19-67
+application
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:41:5-62:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c8866dd86044317293433cbf21f14002\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c8866dd86044317293433cbf21f14002\constraintlayout-2.0.0-beta4\AndroidManifest.xml:9:5-20
+MERGED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:26:5-33:19
+MERGED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:26:5-33:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:42:9-41
+	tools:ignore
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:41:18-52
+	android:allowBackup
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:43:9-35
+activity#com.example.android.notepad.activity.MainActivity
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:45:9-54:20
+	android:label
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:46:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.android.notepad.activity.EditNoteActivity
+ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:56:9-59:44
+	android:parentActivityName
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:58:13-64
+	tools:targetApi
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:59:13-41
+	android:name
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:57:13-54
+uses-sdk
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+MERGED from [jp.wasabeef:richeditor-android:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\6fa6b7ad965cb69550c03f40473a9a70\jetified-richeditor-android-1.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:richeditor-android:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\6fa6b7ad965cb69550c03f40473a9a70\jetified-richeditor-android-1.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:7.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\242117c462cb0ce558c5d27d0777b98e\jetified-materialdrawer-7.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialdrawer:7.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\242117c462cb0ce558c5d27d0777b98e\jetified-materialdrawer-7.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\176ba9771d5bd3bddf5b20f2145af29e\jetified-materialize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\176ba9771d5bd3bddf5b20f2145af29e\jetified-materialize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c8866dd86044317293433cbf21f14002\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c8866dd86044317293433cbf21f14002\constraintlayout-2.0.0-beta4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65cb41738accb8ce22d932b84d3e6e56\jetified-fastadapter-extensions-expandable-4.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65cb41738accb8ce22d932b84d3e6e56\jetified-fastadapter-extensions-expandable-4.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\16097bb1f2ffa69ee9b7af3de76b9d61\jetified-fastadapter-4.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:4.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\16097bb1f2ffa69ee9b7af3de76b9d61\jetified-fastadapter-4.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\1bd668fc37a38b5c8fc7915c01a4294f\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\1bd668fc37a38b5c8fc7915c01a4294f\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\33954c5b145501bac6acfbab4277e4c4\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\33954c5b145501bac6acfbab4277e4c4\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\2ffa6fb42a0edd43832158b657f9e00f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\2ffa6fb42a0edd43832158b657f9e00f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\000b2fa82e91c757b88d13df13849edc\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\000b2fa82e91c757b88d13df13849edc\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4466e4c6a66886e808cb13575ccdfe95\drawerlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4466e4c6a66886e808cb13575ccdfe95\drawerlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0-alpha01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\dc31904d48adc0fd8fbb20e1965b8e51\customview-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0-alpha01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\dc31904d48adc0fd8fbb20e1965b8e51\customview-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ceac98cb2f48d4e14db943703a466dd6\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ceac98cb2f48d4e14db943703a466dd6\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		ADDED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+provider#com.mikepenz.iconics.IconicsContentProvider
+ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:27:9-32:39
+	android:enabled
+		ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:30:13-72
+	android:authorities
+		ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:29:13-73
+	android:exported
+		ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:28:13-71
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

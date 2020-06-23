@@ -1,0 +1,4 @@
+#Tue Jun 23 16:39:21 CST 2020
+base.0=D\:\\yoga\\test\\FJNU-Android-app-Team-NotePad\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

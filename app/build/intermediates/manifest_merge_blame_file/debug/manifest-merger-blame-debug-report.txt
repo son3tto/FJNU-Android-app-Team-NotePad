@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2007 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<!--
+18 Declare the contents of this Android application.  The namespace
+19     attribute brings in the Android platform namespace, and the package
+20     supplies a unique name for the application.  When writing your
+21     own application, the package name must be changed from "com.example.*"
+22     to come from a domain that you own or have control over.
+23-->
+24<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+25    package="com.example.intentdemo"
+26    android:versionCode="1"
+27    android:versionName="1.0" >
+28
+29    <uses-sdk
+30        android:minSdkVersion="15"
+30-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+31        android:targetSdkVersion="29" />
+31-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml
+32    <!-- 吴宇佳添加 权限 -->
+33    <uses-feature
+33-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:26:5-29:11
+34        android:name="android.hardware.camera"
+34-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:27:9-47
+35        android:required="true" />
+35-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:28:9-32
+36
+37    <uses-permission android:name="android.permission.INTERNET" />
+37-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:30:5-66
+37-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:30:22-64
+38    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+38-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:31:5-78
+38-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:31:22-76
+39    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+39-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:32:5-80
+39-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:32:22-78
+40    <uses-permission android:name="android.permission.CAMERA" />
+40-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:33:5-64
+40-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:33:22-62
+41    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+41-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:34:5-35:47
+41-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:34:22-81
+42    <uses-permission android:name="com.miui.whetstone.permission.ACCESS_PROVIDER" />
+42-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:36:5-84
+42-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:36:22-82
+43    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+43-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:5-79
+43-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:37:22-77
+44
+45    <uses-feature android:name="android.hardware.camera.autofocus" />
+45-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:38:5-70
+45-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:38:19-67
+46
+47    <!-- 吴宇佳添加 权限 -->
+48    <application
+48-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:41:5-62:19
+49        android:allowBackup="true"
+49-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:43:9-35
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.2.0-alpha03] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\c36f611083a91017fc9112c687a0bc9c\core-1.2.0-alpha03\AndroidManifest.xml:24:18-86
+51        android:debuggable="true"
+52        android:icon="@drawable/app_notes"
+52-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:41:18-52
+53        android:label="@string/app_name"
+53-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:42:9-41
+54        android:testOnly="true" >
+55        <activity
+55-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:45:9-54:20
+56            android:name="com.example.android.notepad.activity.MainActivity"
+56-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:46:13-50
+57            android:label="@string/app_name"
+57-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:47:13-45
+58            android:theme="@style/AppTheme.NoActionBar" >
+58-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:48:13-56
+59            <intent-filter>
+59-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:49:13-53:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:50:17-69
+60-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:50:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:52:17-77
+62-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:52:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:56:9-59:44
+66            android:name="com.example.android.notepad.activity.EditNoteActivity"
+66-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:57:13-54
+67            android:parentActivityName="com.example.android.notepad.activity.MainActivity" />
+67-->D:\yoga\test\FJNU-Android-app-Team-NotePad\app\src\main\AndroidManifest.xml:58:13-64
+68
+69        <provider
+69-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:27:9-32:39
+70            android:name="com.mikepenz.iconics.IconicsContentProvider"
+70-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:28:13-71
+71            android:authorities="com.example.intentdemo.iconics.core.provider"
+71-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:29:13-73
+72            android:enabled="@bool/is_iconics_content_provider_enabled"
+72-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:30:13-72
+73            android:exported="false"
+73-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:31:13-37
+74            android:initOrder="100" />
+74-->[com.mikepenz:iconics-core:4.0.2] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\f19cea7f18d7b48292383ac90f0dc279\jetified-iconics-core-4.0.2\AndroidManifest.xml:32:13-36
+75
+76        <service
+76-->[androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+77            android:name="androidx.room.MultiInstanceInvalidationService"
+77-->[androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+78            android:directBootAware="true"
+78-->[androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+79            android:exported="false" />
+79-->[androidx.room:room-runtime:2.2.5] C:\Users\Yoga\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+80    </application>
+81
+82</manifest>
