@@ -1,6 +1,6 @@
-# 移动软件开发期末作业
+# 移动软件开发-笔记本应用
 
-##### 福建师范大学数学与信息学院2017级软件工程闽台班7组
+##### 
 
 **小组成员**
 
@@ -12,17 +12,33 @@
 
 [eric-ruhu](https://github.com/eric-ruhu)
 
-### 写给小组
 
-| 功能认领                                     | **抄送** |
-| -------------------------------------------- | -------- |
-| 修改背景色及字体颜色                         |          |
-| 添加标签文本分类                             |          |
-| 插入图片                                     |          |
-| 添加提醒时间                                 |          |
-| 添加代办                                     |          |
-| 一个长按选项，长按后出现删除和短信发送的提示 |          |
-|                                              |          |
+
+## 功能介绍
+
+![image-20200627111545011](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111545011.png)
+
+![image-20200627111605127](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111605127.png)
+
+![image-20200627111638463](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111638463.png)
+
+![image-20200627111655744](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/typora-user-images\image-20200627111655744.png)
+
+![image-20200627111704749](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111704749.png)
+
+![image-20200627111714168](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111714168.png)
+
+![image-20200627111721632](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111721632.png)
+
+![image-20200627111728174](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111728174.png)
+
+![image-20200627111733903](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111733903.png)
+
+![image-20200627111739560](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111739560.png)
+
+![image-20200627111745138](https://github.com/sonettofighting/FJNU-Android-app-Team-NotePad/blob/master/images/image-20200627111745138.png)
+
+### 写给小组
 
 **第一次关联仓库**
 PS:因为可以使用ssh/http两种方式，考虑到科学上网/ssh密钥的问题，我不确定两种方式是否可以成功！
@@ -64,7 +80,7 @@ git merge [分支名]
 ps: 此时，推送的是master分支，新的分支是不同步的，如果需要同步，仍然需要merge，走一步看一步！我不能全部情况都考虑到QAQ！
 
     如果不确定自己在哪个分支，在命令行输入git branch即可查看。
-    
+
 **（2）补充，如果想试试可以试试，不用也没关系！**
 如果直接在新分支上进行
 ```shell
